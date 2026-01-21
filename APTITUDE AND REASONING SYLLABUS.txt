@@ -1,0 +1,185 @@
+APTITUDE SYLLABUS:
+averages
+p&c
+probability
+time & distance
+time & work
+series & progression
+mensuration
+quadractic equation 
+data interpretation
+divisibility/remainders/factors/last digit/no of zeros/LCM & HCF
+simplifications
+percentages
+profit and loss
+ratios and proportions
+partnership
+ages
+averages
+
+REASONING SYLLABUS:
+coding and decoding
+number series
+letter series
+blood relations
+syllogisms
+seating arrangements
+ranking sequence
+directions
+analog
+clocks
+calenders
+data sufficiency
+crypt arithematic
+statements arguments
+statements  assumption
+statements conclusion
+non verbal
+critical reasoning
+
+
+1)VALUE OF ROOT12345654321=1111
+TOTAL 11
+11*11=121
+111*111=1234321
+1111*1111=12345654321
+
+2)FIND THE NUMBER OF ZEROS AT THE END OF 300?
+ANS=300/5=60
+60/5=12
+12/5=2
+REMAINDER VALUE SHOULD BE added
+60+12+2=74
+THEREFORE THERE ARE 74 ZEROS AT THE END.
+FOR FINDING NO OF ZEROS AT THE END OF X!,WE HAVE TO DIVIDE X/5
+THIS PROCESS WILL CONTINUE UNTIL THE QUOTIENT IS LESS THAN 5 AND THE ANSWER IS SUM OF ALL THE QUOTIENTS
+
+3)FIND NO OF ZEROS IN 100!
+100/5=20
+20/5=4
+20+4=24
+THEREFORE THE ANSWER IS 24
+
+4)FIND HIGHEST POWER OF 3 IN 50!?
+50/3=16
+16/3=5
+5/3=1
+16+5+1=22
+
+5)7 IN 200!
+200/7=28
+28/7=4
+28+4=32
+
+6)10 IN 200!?
+NOTE=FINDING THE HIGHTEST POWER OF 10 IN X! IS SAME AS FINDING THE NO OF ZEROS ATH THE END OF X!
+THEREFORE WE HAVE TO DIVIDE X/5
+200/5=40
+40/5=8
+8/5=1
+40+8+1=49
+
+7)FIND THE SUM OF ALL EVEN INTERGERS BETWEEN 99 AND 301?
+1-300=150
+1-98=49
+150-49=101
+N/2(A+L)
+101/2(100+300)=20200
+
+8)RAJU MULTIPLIED A NATURAL NUMBER BY 18 AND ANOTHER NATURAL NUMBER BY 21 AND ADDED PRODUCTS. WHICH OF THE FOLLOWING COULD BE THE SUM?
+X*18+Y*21
+18X+21Y
+3X(6X+7Y)=2007
+
+9)FIND TOTAL FACTORS OF 1200?
+2|_1200
+2|_600
+2|_300
+2|_150
+3|_75
+5|_25
+5|_5
+ |_1
+(2^4*3^1*5^2)
+NO OF TERMS =3
+
+
+10)TOTAL FACTORS OF 3960?
+4|_3960
+9|990
+11|110
+2 |10
+ 5|5
+  |1
+4*9*11*2*5
+
+11)(111)^111+(222)^222+(333)^333+(444)^444?
+1+2^2+3^1+6=14
+
+12)1^1+2^2+3^3+4^4+5^5+6^6+7^7+8^8+9^9
+1+4+7+6+5+6+3+6+9=47
+
+13)161*162*163 IS DIVIDED BY 16?
+161/16=11=1   162/16=12=2   163/16=13=3
+1*2*3=6
+
+14)ONE DIGIT NO=9*1=9
+TWO DIGIT NO=10-99=9-99=90*2=180
+THREE DIGIT NO=100-300=99-300=201=201*3=603
+9+180+603=792
+
+15)WHICH OF THE FOLLOWING NUMBERS WILL COMPLETELY DIVIDE (4^61+4^62+4^63+4^64)
+4^61(1+4^1+4^2+4^3)
+4^61(1+4+16+64)
+4^61(85)
+85 IS DIVIBLE BY 17 (17*5=85)
+SO OPTION IS 17;
+
+CUBES:
+1^3=1        7^3=343
+2^3=8        8^3=512
+3^3=27       9^3=729
+4^3=64
+5^3=125
+6^3=216
+
+SQUARES:
+11^2=121     19^2=361
+12^2=144     20^2=400
+13^2=169     21^2=441
+14^2=196     22^2=484
+15^2=225     23^2=529
+16^2=256     24^2=576
+17^2=289     25^2=625
+18^2=324
+
+
+
+
+
+
+REASONING:-----------
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26  
+A B C D E F G H I J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+
+Z Y X W V U T S R Q  P  O  N  M  L  K  J  I  H  G  F  E  D  C  B  A
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+1)in a code language RANK is codes as TDSR. how is CLOCK coded in that code language?
+  EOTJV.
+ 
+2)if BOMBAY IS CODED AS FSQFEC,which word could be coded as QCWSVI?
+    MYSORE.
+
+3)in a coded language MONKEY is coded as XDJMNL,IMPOSE is coded as?
+    14 15 14 11 5 24  
+    M  O  N  K  E  Y        I  M  P  O  S  E
+    X  D  J  M  N  L        D  Q  N  O  L  H
+
+4)  N  A  T  U  R  E       H  O  C  K  E  Y
+    M  Z  G  F  I  V       S  L  X  P  V  B
+
+5)  O  P  E  R  A  T  I  O  N         O R P S E C S E S
+    E  P  O  T  R  A  N  O  I         P R O C E S S E S
+
+6)
